@@ -1,7 +1,7 @@
 # eat-shit-bot
 > Lmao
 
-This is a twitter bot to retweet people who use a certain phrase. Currently, that phrase is "eat shit". 
+This is a twitter bot to retweet people who use a certain phrase. Currently, that phrase is "get bent". 
 
 Many thanks to the original @ https://github.com/skiprox/eat-shit-bot
 
